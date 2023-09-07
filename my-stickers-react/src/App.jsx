@@ -9,8 +9,8 @@ class App extends Component() {
     stickerLabel: null
   };
 
-  labelHandler = () => {
-      
+  labelHandler= () => {
+
   }
     render(){
         <>
